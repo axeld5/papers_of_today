@@ -29,7 +29,7 @@ To get all articles for a given day related to the topic you desire, follow thes
 - Run the Streamlit application by executing the following command:
 
 ```
-streamlit run src/streamlit.py
+streamlit run app.py
 ```
 
 The Streamlit application will open in your default web browser.
