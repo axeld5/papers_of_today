@@ -1,0 +1,187 @@
+,paper_title,paper_x,paper_y,cluster_index
+0,Code Pretraining Improves Entity Tracking Abilities of Language Models,-0.14491241353124898,0.08057164513613742,2
+1,"Recurrent neural networks: vanishing and exploding gradients are not the
+  end of the story",0.034688561802796836,-0.17094571929870142,6
+2,Grammar-Aligned Decoding,-0.18338868979685416,-0.15581143833351183,0
+3,"Exploratory Preference Optimization: Harnessing Implicit
+  Q*-Approximation for Sample-Efficient RLHF",-0.20759003557489278,-0.1803419292348942,0
+4,Standards for Belief Representations in LLMs,-0.35132029032903933,-0.03708612332186008,5
+5,"Enhancing Noise Robustness of Retrieval-Augmented Language Models with
+  Adaptive Adversarial Training",-0.24251622824113547,-0.10909780479641758,0
+6,"SaySelf: Teaching LLMs to Express Confidence with Self-Reflective
+  Rationales",-0.3060086396920544,-0.012676906038699498,5
+7,Large Language Models are Zero-Shot Next Location Predictors,-0.29017176833017844,-0.08957445335371196,0
+8,OR-Bench: An Over-Refusal Benchmark for Large Language Models,-0.3716889829661033,-0.15163489762357568,0
+9,"Effective Interplay between Sparsity and Quantization: From Theory to
+  Practice",0.07657905489366655,-0.11912984344935862,6
+10,Fast yet Safe: Early-Exiting with Risk Control,0.07118030207088401,-0.26580696975534857,6
+11,"Enhancing Vision Models for Text-Heavy Content Understanding and
+  Interaction",0.0947466608292066,0.3971573991471443,7
+12,"Preemptive Answer ""Attacks"" on Chain-of-Thought Reasoning",-0.37678068394351716,-0.10965386124198849,0
+13,"Investigating Calibration and Corruption Robustness of Post-hoc Pruned
+  Perception CNNs: An Image Classification Benchmark Study",0.24118074257028863,-0.08051787609081543,4
+14,Automatic Channel Pruning for Multi-Head Attention,0.23243130426314965,0.08436992218122717,1
+15,"clembench-2024: A Challenging, Dynamic, Complementary, Multilingual
+  Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents",-0.3898071954668092,-0.0232056325788979,5
+16,"Don't Buy it! Reassessing the Ad Understanding Abilities of Contrastive
+  Multimodal Models",-0.03514394315502266,0.20010004537567577,2
+17,einspace: Searching for Neural Architectures from Fundamental Operations,0.14163666521811272,-0.030318369087390072,1
+18,"Outliers and Calibration Sets have Diminishing Effect on Quantization of
+  Modern LLMs",-0.23549198397016408,-0.18588173613897058,0
+19,"InsightSee: Advancing Multi-agent Vision-Language Models for Enhanced
+  Visual Understanding",-0.0409551646426764,0.30939652824458574,2
+20,"OpenTensor: Reproducing Faster Matrix Multiplication Discovering
+  Algorithms",0.14884414997824233,-0.04383930072073459,1
+21,"GANcrop: A Contrastive Defense Against Backdoor Attacks in Federated
+  Learning",0.12135360877559286,-0.2971536111995531,6
+22,FinGen: A Dataset for Argument Generation in Finance,0.021621397328884684,-0.12114088905948613,3
+23,"ADESSE: Advice Explanations in Complex Repeated Decision-Making
+  Environments",0.029460693055140375,-0.09710593445017675,3
+24,"Unveiling the Lexical Sensitivity of LLMs: Combinatorial Optimization
+  for Prompt Enhancement",-0.3689559877314698,-0.027166540970262852,5
+25,Conditioning GAN Without Training Dataset,0.2970984310764008,-0.14725313961573402,4
+26,No Free Lunch Theorem for Privacy-Preserving LLM Inference,-0.4188467467527327,-0.2420013901320607,0
+27,Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling,0.3445425466216047,-0.20082027999687038,4
+28,"Enhancing Jailbreak Attack Against Large Language Models through Silent
+  Tokens",-0.3147151444480647,-0.19001039286004656,0
+29,Learning Gaze-aware Compositional GAN,0.26004473526876914,0.06086552911197413,1
+30,"ToxVidLLM: A Multimodal LLM-based Framework for Toxicity Detection in
+  Code-Mixed Videos",-0.18664553292629243,0.2919229387428484,2
+31,Robust Planning with LLM-Modulo Framework: Case Study in Travel Planning,-0.4019689251056068,0.023560429350675836,5
+32,Leveraging Large Language Models for Entity Matching,-0.2616766244614941,0.0010507069527159647,5
+33,"UniBias: Unveiling and Mitigating LLM Bias through Internal Attention
+  and FFN Manipulation",-0.27462560998353036,-0.04967428243695729,5
+34,"Vision-Language Meets the Skeleton: Progressively Distillation with
+  Cross-Modal Knowledge for 3D Action Representation Learning",0.007477607894177178,0.3190081004458082,7
+35,Searching for internal symbols underlying deep learning,0.07816776884676951,-0.08878917512255842,3
+36,"Multi-label Class Incremental Emotion Decoding with Augmented Emotional
+  Semantics Learning",-0.02653149769828386,0.15181071459789292,2
+37,Deep Learning without Weight Symmetry,0.22902920256032888,-0.21438392645295787,6
+38,"GAMedX: Generative AI-based Medical Entity Data Extractor Using Large
+  Language Models",-0.10065811692388509,-0.024820552511053206,3
+39,"Disrupting Diffusion: Token-Level Attention Erasure Attack against
+  Diffusion-based Customization",0.2577566710750846,-0.12951160628659855,4
+40,"The Point of View of a Sentiment: Towards Clinician Bias Detection in
+  Psychiatric Notes",-0.19364333864799463,0.05408242742533519,5
+41,"Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with
+  Ko-H5 Benchmark",-0.3652306015660132,-0.026848725052825737,5
+42,The Gestalt Computational Model,0.2418419158452071,-0.004155497895791538,1
+43,"Video-MME: The First-Ever Comprehensive Evaluation Benchmark of
+  Multi-modal LLMs in Video Analysis",-0.14742090893858412,0.27813705901963365,2
+44,"Generalization Beyond Data Imbalance: A Controlled Study on CLIP for
+  Transferable Insights",0.005756509925579435,0.18810729402304605,2
+45,"You Only Scan Once: Efficient Multi-dimension Sequential Modeling with
+  LightNet",0.047250373397916406,0.07151934131671904,1
+46,"CWRCzech: 100M Query-Document Czech Click Dataset and Its Application to
+  Web Relevance Ranking",-0.06270584394590697,0.09778315125239546,2
+47,LCQ: Low-Rank Codebook based Quantization for Large Language Models,-0.2193463988735867,-0.09949669731069795,0
+48,"Superlatives in Context: Explicit and Implicit Domain Restrictions for
+  Superlative Frames",-0.07457623656424373,0.09925754878317936,2
+49,"Large Language Models: A New Approach for Privacy Policy Analysis at
+  Scale",-0.380406660662865,-0.10257957909280972,0
+50,"A comparison of correspondence analysis with PMI-based word embedding
+  methods",0.10236441653211091,0.08023996825192331,1
+51,"Towards Spoken Language Understanding via Multi-level Multi-grained
+  Contrastive Learning",-0.25244248697042665,0.24678174943468645,2
+52,Improving Reward Models with Synthetic Critiques,-0.2361601800845708,0.037647315343172734,5
+53,"That's Optional: A Contemporary Exploration of ""that"" Omission in
+  English Subordinate Clauses",-0.06608439368322608,-0.03694009401946196,3
+54,"Self-Augmented Preference Optimization: Off-Policy Paradigms for
+  Language Model Alignment",-0.24656382383080738,-0.08818782523717743,0
+55,"An iterated learning model of language change that mixes supervised and
+  unsupervised learning",-0.035299019879473564,-0.026517547451975647,3
+56,"Improving code-mixed hate detection by native sample mixing: A case
+  study for Hindi-English code-mixed scenario",-0.15234771275276396,0.08069496294773135,2
+57,"It is Simple Sometimes: A Study On Improving Aspect-Based Sentiment
+  Analysis Performance",-0.058240526526927565,0.11280463062341599,2
+58,Joint Embeddings for Graph Instruction Tuning,-0.26745022583356926,0.17636896027833818,2
+59,DORY: Deliberative Prompt Recovery for LLM,-0.240500559587289,-0.1855914842266965,0
+60,"Passage-specific Prompt Tuning for Passage Reranking in Question
+  Answering with Large Language Models",-0.3291993910052886,-0.12522933261097968,0
+61,Reward-based Input Construction for Cross-document Relation Extraction,-0.07564072328177156,0.15246240716932072,2
+62,"Shotluck Holmes: A Family of Efficient Small-Scale Large Language Vision
+  Models For Video Captioning and Summarization",-0.10376123759384187,0.32548535673557705,2
+63,"Large Language Models Enhanced Sequential Recommendation for Long-tail
+  User and Item",-0.28412920179759327,0.03395963290193653,5
+64,"FineRadScore: A Radiology Report Line-by-Line Evaluation Technique
+  Generating Corrections with Severity Scores",-0.05266522815674354,0.079346929350975,2
+65,Identifying while Learning for Document Event Causality Identification,0.03895177963339357,0.031219841295544167,3
+66,"Masked Language Modeling Becomes Conditional Density Estimation for
+  Tabular Data Synthesis",0.008520665486170564,-0.038104050815528034,3
+67,"DAFNet: Dynamic Auxiliary Fusion for Sequential Model Editing in Large
+  Language Models",-0.07535356450211725,-0.001741316513252956,3
+68,"RASE: Efficient Privacy-preserving Data Aggregation against Disclosure
+  Attacks for IoTs",0.114024433644408,-0.2937239992342485,6
+69,"Query Provenance Analysis for Robust and Efficient Query-based Black-box
+  Attack Defense",-0.05248733950077543,-0.2048678416984005,3
+70,"Unified Directly Denoising for Both Variance Preserving and Variance
+  Exploding Diffusion Models",0.25351125859436774,-0.11530164292798666,4
+71,Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models,0.2512067215811594,-0.08394759800655334,4
+72,"Kaleido Diffusion: Improving Conditional Diffusion Models with
+  Autoregressive Latent Modeling",0.20911941094077202,0.088613918577013,1
+73,"StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image
+  Perception, Comprehension, and Beyond",0.04747450849060169,0.3860553263209766,7
+74,"Early Stopping Criteria for Training Generative Adversarial Networks in
+  Biomedical Imaging",0.3281454265798792,-0.1631574957707421,4
+75,"Uncertainty Quantification for Bird's Eye View Semantic Segmentation:
+  Methods and Benchmarks",0.18753049464433486,0.04360568260630782,1
+76,"DeCo: Decoupling Token Compression from Semantic Abstraction in
+  Multimodal Large Language Models",-0.04621514404837209,0.12993672767503345,2
+77,"Amortizing intractable inference in diffusion models for vision,
+  language, and control",0.19052420407106782,-0.2510255754888482,6
+78,"S4Fusion: Saliency-aware Selective State Space Model for Infrared
+  Visible Image Fusion",0.23303998826352318,0.2884904863503313,7
+79,MeshXL: Neural Coordinate Field for Generative 3D Foundation Models,0.2470106245690881,-0.059385933895742135,4
+80,MegActor: Harness the Power of Raw Video for Vivid Portrait Animation,0.25993717767082797,0.15230327348962466,1
+81,"Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits
+  Multimodal Reasoning",-0.16471075389145548,0.1910726822531989,2
+82,Context-aware Difference Distilling for Multi-change Captioning,0.19745646724218124,0.27386991714176395,7
+83,"CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image
+  with Consistency Model",0.3266138482129002,0.1096885535578703,1
+84,Information Theoretic Text-to-Image Alignment,0.19956565075254962,0.06913025278860986,1
+85,"Language Augmentation in CLIP for Improved Anatomy Detection on
+  Multi-modal Medical Images",0.008862066776790722,0.36758138179688066,7
+86,Extreme Point Supervised Instance Segmentation,0.1733976828628002,-0.010717086918931033,1
+87,"Power of Cooperative Supervision: Multiple Teachers Framework for
+  Enhanced 3D Semi-Supervised Object Detection",0.11272768430787841,0.15539250080011902,1
+88,Cyclic image generation using chaotic dynamics,0.40236218771004023,-0.06949467967580125,4
+89,"Revisiting Mutual Information Maximization for Generalized Category
+  Discovery",0.12017301964896286,-0.13012884533997882,6
+90,"Enhancing Counterfactual Image Generation Using Mahalanobis Distance
+  with Distribution Preferences in Feature Space",0.17899875817746344,-0.0003639502146621326,1
+91,"Investigating and unmasking feature-level vulnerabilities of CNNs to
+  adversarial perturbations",0.22319100330066505,-0.09037762901791829,4
+92,"Fourier123: One Image to High-Quality 3D Object Generation with Hybrid
+  Fourier Score Distillation",0.4301738773483214,-0.009221935244991389,4
+93,"MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign
+  Language Recognition",-0.03950639868735539,0.25394369800070754,2
+94,"GenMix: Combining Generative and Mixture Data Augmentation for Medical
+  Image Classification",0.31271639572083937,-0.024877141796345384,4
+95,"Action-OOD: An End-to-End Skeleton-Based Model for Robust
+  Out-of-Distribution Human Action Detection",0.16362842906588168,0.10838054712746333,1
+96,"Revisiting and Maximizing Temporal Knowledge in Semi-supervised Semantic
+  Segmentation",0.13188296883495784,0.0654451556677733,1
+97,"Textual Inversion and Self-supervised Refinement for Radiology Report
+  Generation",0.14975003921379587,0.25510511221423365,7
+98,"Generalized Semi-Supervised Learning via Self-Supervised Feature
+  Adaptation",0.0042240498636337085,-0.07994598460962869,3
+99,Intersectional Unfairness Discovery,0.16748227948879404,-0.18926199515452455,6
+100,"MunchSonic: Tracking Fine-grained Dietary Actions through Active
+  Acoustic Sensing on Eyeglasses",0.05052078032875913,0.1687479876641869,2
+101,Graph External Attention Enhanced Transformer,0.18646853704659663,0.023236542150405305,1
+102,"Transformers are SSMs: Generalized Models and Efficient Algorithms
+  Through Structured State Space Duality",0.018602205557194305,0.1381834494627045,2
+103,"Aligning Multiclass Neural Network Classifier Criterion with Task
+  Performance via $F_β$-Score",0.13038516062550315,-0.09808571559539091,6
+104,Flow matching achieves minimax optimal convergence,0.18719048900077948,-0.2758992249476538,6
+105,"Rough Transformers: Lightweight Continuous-Time Sequence Modelling with
+  Path Signatures",0.23241299319039863,0.059627932527206,1
+106,Learning on Large Graphs using Intersecting Communities,0.06912298446923998,-0.20284625836915682,6
+107,"Provably Efficient Interactive-Grounded Learning with Personalized
+  Reward",-0.04734741518892683,-0.17840136795600942,3
+108,"Weak Robust Compatibility Between Learning Algorithms and Counterfactual
+  Explanation Generation Algorithms",0.02977457022637865,-0.23266688253499535,6
+109,"Generative AI for Deep Reinforcement Learning: Framework, Analysis, and
+  Use Cases",0.10500139365205186,-0.15436235148544633,6
+110,"Goal-Oriented Sensor Reporting Scheduling for Non-linear Dynamic System
+  Monitoring",0.033099985048679996,-0.1453157953416809,3
